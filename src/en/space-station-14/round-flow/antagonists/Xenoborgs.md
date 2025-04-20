@@ -64,6 +64,7 @@ Xenoborgs come in three different castes
 - engi xenoborg: support role
 - heavy xenoborg: defensive role, slow, more HP, equipped with lasers
 - scout xenoborg: combat role, fast, equipped with a melee weapon
+- stealth xenoborg: support role, meant to infiltrate the station stealthly and gather crew with stuns or sleep juice
 
 All xenoborgs have a unique radio frequency which they can all use to communicate with each other.
 
